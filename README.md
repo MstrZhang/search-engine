@@ -2,7 +2,9 @@
 
 ## Overview
 
-This is a simple search engine application developed for the CSCC01 course at UTSC
+<img src="docs/image.png" alt="image of project" />
+
+This is a simple search engine application developed for the CSCC01 course at UTSC. 
 It was primarily developed by myself with assistance from my team members (Jeff Xu, Edgar Lai, and Angela Zhu)
 
 The idea of this project is for students and instructors to upload and search for various files in a file system. A user can
