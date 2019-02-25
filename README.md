@@ -47,4 +47,9 @@ Building:
   - Backend:
     - Build with `mvn clean install tomcat7:run`
     - Backend runs on `http://localhost:8080`
-
+    
+ ---
+ 
+ ## Additional Notes
+ 
+ This project is no longer being maintained and is just viewable for legacy purposes
